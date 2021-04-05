@@ -1,0 +1,11 @@
+/home/nikita/RiderProjects/DepartmentalTraversal/Tests/bin/Debug/Tests.dll
+/home/nikita/RiderProjects/DepartmentalTraversal/Tests/bin/Debug/Tests.pdb
+/home/nikita/RiderProjects/DepartmentalTraversal/Tests/bin/Debug/nunit.framework.dll
+/home/nikita/RiderProjects/DepartmentalTraversal/Tests/bin/Debug/nunit.framework.xml
+/home/nikita/RiderProjects/DepartmentalTraversal/Tests/obj/Debug/Tests.csprojAssemblyReference.cache
+/home/nikita/RiderProjects/DepartmentalTraversal/Tests/obj/Debug/Tests.csproj.CoreCompileInputs.cache
+/home/nikita/RiderProjects/DepartmentalTraversal/Tests/obj/Debug/Tests.csproj.CopyComplete
+/home/nikita/RiderProjects/DepartmentalTraversal/Tests/obj/Debug/Tests.dll
+/home/nikita/RiderProjects/DepartmentalTraversal/Tests/obj/Debug/Tests.pdb
+/home/nikita/RiderProjects/DepartmentalTraversal/Tests/bin/Debug/DepartmentalTraversal.dll
+/home/nikita/RiderProjects/DepartmentalTraversal/Tests/bin/Debug/DepartmentalTraversal.pdb

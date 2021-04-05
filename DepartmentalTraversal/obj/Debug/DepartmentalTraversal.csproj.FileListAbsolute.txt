@@ -1,0 +1,6 @@
+/home/nikita/RiderProjects/DepartmentalTraversal/DepartmentalTraversal/bin/Debug/DepartmentalTraversal.dll
+/home/nikita/RiderProjects/DepartmentalTraversal/DepartmentalTraversal/bin/Debug/DepartmentalTraversal.pdb
+/home/nikita/RiderProjects/DepartmentalTraversal/DepartmentalTraversal/obj/Debug/DepartmentalTraversal.csprojAssemblyReference.cache
+/home/nikita/RiderProjects/DepartmentalTraversal/DepartmentalTraversal/obj/Debug/DepartmentalTraversal.csproj.CoreCompileInputs.cache
+/home/nikita/RiderProjects/DepartmentalTraversal/DepartmentalTraversal/obj/Debug/DepartmentalTraversal.dll
+/home/nikita/RiderProjects/DepartmentalTraversal/DepartmentalTraversal/obj/Debug/DepartmentalTraversal.pdb
